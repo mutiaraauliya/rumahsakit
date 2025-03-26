@@ -1,4 +1,0 @@
-.env
-*__pycache__
-saved_model/dataset_embeddings.pkl
-saved_model/indobert/model.safetensors
