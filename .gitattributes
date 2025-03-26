@@ -1,0 +1,2 @@
+saved_model/dataset_embeddings.pkl filter=lfs diff=lfs merge=lfs -text
+saved_model/indobert/model.safetensors filter=lfs diff=lfs merge=lfs -text
