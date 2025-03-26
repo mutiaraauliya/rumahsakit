@@ -1,0 +1,7 @@
+streamlit==1.39.0
+torch==2.5.1
+tensorflow==2.15.0
+scikit-learn==1.5.2
+python-dotenv==1.0.1
+transformers==4.46.1
+langchain-google-genai==2.0.4
